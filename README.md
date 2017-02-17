@@ -1,2 +1,2 @@
 # Notes
-Notes for all my BTech Comp Sci courses till date
+Notes for all the courses I have taken till date.
